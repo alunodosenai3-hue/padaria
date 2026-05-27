@@ -1,0 +1,6 @@
+{
+  "name": "Panis & Co. Artisanal",
+  "description": "Landing page de alta conversão para padaria de fermentação natural e confeitaria fina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
